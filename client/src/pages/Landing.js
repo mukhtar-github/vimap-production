@@ -26,10 +26,10 @@ const Landing = () => {
               time-consuming. The challenge gave birth to VIMAP, an acronym for
               Vehicles Information Management Application. The application
               provides a solution to replace the analog method of accessing,
-              saving, and updating vehicle information.<br></br>
+              saving, and updating vehicle information.{" "}
               <a href="https://medium.com/@mukhtartanimugarba/the-vimap-manual-bb9d299cebba">
                 The Vimap Manual
-              </a>
+              </a>{" "}
               is a guide for creating a fleet of vehicles data bank. The
               application features are the Collection and Storage of Vehicles
               Information, Search, Updates, Graphical Data Visualization, and
