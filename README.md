@@ -6234,7 +6234,7 @@ package.json
 - git init
 - git add .
 - git commit -m "first commit"
-- push up to Github
+- git push -u origin main (push up to Github)
 
 #### Deploy To Heroku
 

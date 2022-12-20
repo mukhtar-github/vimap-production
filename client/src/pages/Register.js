@@ -116,7 +116,7 @@ function Register() {
             });
           }}
         >
-          {isLoading ? "loading..." : "test user"}
+          {isLoading ? "loading..." : "demo app"}
         </button>
         <p>
           {values.isMember ? "Not a member yet?" : "Already a member?"}
