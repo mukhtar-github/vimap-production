@@ -22,7 +22,7 @@ const Landing = () => {
             </h1>
             <p>
               Working as a Fleet Manager with my employer, the challenge of
-              going through archives to get vehicle information for updates is
+              going through archives to get vehicle information for updates was
               time-consuming. The challenge gave birth to VIMAP, an acronym for
               Vehicles Information Management Application. The application
               provides a solution to replace the analog method of accessing,
